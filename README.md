@@ -1,3 +1,4 @@
 # Prediction of Heart disease onset using patient data  
 
-This project studies the prediction accuracy of KNN and Random forest models to predict a patient's chance of acquiring heart disease using R packages and data from Kaggle. 
+The following report entails the contents of the second and final Data Science project that I finished, as part of the *HarvardX PH125.9x Data Science: Capstone* final course. For this project, I created **a machine-learning algorithm that predicts if a person will, or will not get Heart Disease, based on selected parameters.** According to 2019 worldwide statistics, 18.6 million people died of cardiovascular disease, globally, marking a 17.1% increase in the number of cases over the last decade; which makes this research-topic very challenging yet interesting, from the view of a data-scientist. A number of research papers have been published on this topic, and the most popular models used were K-Nearest-Neighbours, Naive Beyes and the Random Forest model.      
+
